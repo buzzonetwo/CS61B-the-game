@@ -1,4 +1,4 @@
-# CS61B the game
+# CS61B: THE HYPE IS REAL
 A fun little game that Samir Naqvi, a good friend of mine, and I worked on for project 2 of CS61B. It is written in Java and features a tile engine created by the 61B course staff and utilizes the Princeton StdDraw library. A lot of hours were put during the three weeks that we worked on it since the rest was basically made from scratch.
 
 # Game Mechanics
