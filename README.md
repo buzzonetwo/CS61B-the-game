@@ -8,4 +8,4 @@ The sequence ":q" saves the game and allows you to load the game from the home s
 Using the same seed for a game will create the same floorplan.
 
 # Video Overview
-Link to an overview of the project by Samir: (https://www.youtube.com/watch?v=cSxF_SCmQvw)
+Link to an overview of the project by Samir: https://www.youtube.com/watch?v=cSxF_SCmQvw
